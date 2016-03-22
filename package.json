@@ -10,8 +10,7 @@
 		"type": "git",
 		"url": "git://github.com/jfd/node-conf.git"
 	},
-	"os": ["macos", "linux"],
 	"engines": {
-		"node": ">=0.3.0"
+		"node": ">=0.10.0"
 	}
 }
